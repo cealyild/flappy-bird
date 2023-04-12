@@ -1,5 +1,5 @@
 # Flappy Bird Game (HTML CSS & JavaScript)
 
-Flappy Bird oyunu, HTML, CSS ve JavaScript programlama dilleri kullanılarak uygulanan web tabanlı bir oyundur. Oyuncunun bir kuşu kontrol ettiği ve ekrana dokunarak veya bir tuşa basarak engellerin üzerinden geçtiği popüler mobil oyun Flappy Bird'ün bir klonudur. Oyunun amacı engellerle çarpışmadan kaçınmak ve mümkün olan en yüksek puanı elde etmektir. Oyun eğlence için tasarlanmıştır ve web tarayıcılarında gündelik oyun deneyimlerinden hoşlanan herkes tarafından oynanabilir.
+The Flappy Bird game is a web-based game implemented using HTML, CSS, and JavaScript programming languages. It is a clone of the popular mobile game Flappy Bird, where the player controls a bird and navigates it through obstacles by tapping on the screen or pressing a key. The objective of the game is to avoid collision with the obstacles and achieve the highest possible score. The game is designed for entertainment and can be played by anyone who enjoys casual gaming experiences on web browsers.
 
 ![](https://media.giphy.com/media/3ornk1WsTfNDP2mBJS/giphy.gif)
